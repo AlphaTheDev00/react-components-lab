@@ -1,6 +1,5 @@
 import React from "react";
 import WeatherForecast from "./components/WeatherForecast/WeatherForecast";
-import "./App.css"; // Optional global styles
 
 const weatherForecasts = [
   {
